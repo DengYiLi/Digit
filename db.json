@@ -1,0 +1,104 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "海外舆论:中国将为全球经济稳定作出新贡献",
+      "url": "http://starcraft.com",
+      "newSon": [
+        {
+          "title": "多部委为民众送惠民实招",
+          "url": "http://starcraft.com"
+        },
+        {
+          "title": "省级大员坦诚回应关切",
+          "url": "http://starcraft.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "日企低价采购中国产品顶替本国货",
+      "url": "http://warcraft.com",
+      "newSon": [
+        {
+          "title": "三个一助力脱贫攻坚战",
+          "url": "http://warcraft.com"
+        },
+        {
+          "title": "委员谈房地产发展话题",
+          "url": "http://warcraft.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "习近平等分别参加全国人大会议一些代表团审议",
+      "url": "http://overwatch.com",
+      "newSon": [
+        {
+          "title": "外媒看两会：速度、奇迹 新时代中国方案",
+          "url": "http://overwatch.com"
+        },
+        {
+          "title": "城镇失业率严控5.5%以内",
+          "url": "http://overwatch.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "实录:十三届全国人大一次会第三次全体会 通过宪法修正案",
+      "url": "http://hearstone.com",
+      "newSon": [
+        {
+          "title": "如何加强内地与香港青年交流？",
+          "url": "http://hearstone.com"
+        }
+      ]
+    }
+  ],
+  "login": {
+    "username": "@dengdengdeng",
+    "userId": 123123
+  },
+  "getPrice": {
+    "amount": 666
+  },
+  "createOrder": {
+    "orderId": "deng666"
+  },
+  "register": {
+    "cont": "服务系统繁忙，操作失败"
+  },
+  "getOrderList": {
+    "list": [
+      {
+        "orderId": "ddj123",
+        "product": "数据统计",
+        "version": "高级版",
+        "period": "1年",
+        "buyNum": 2,
+        "date": "2016-10-10",
+        "amount": "500元"
+      },
+      {
+        "orderId": "yuj583",
+        "product": "流量分析",
+        "version": "户外版",
+        "period": "3个月",
+        "buyNum": 1,
+        "date": "2016-5-2",
+        "amount": "2200元"
+      },
+      {
+        "orderId": "pmd201",
+        "product": "广告发布",
+        "version": "商铺版",
+        "period": "3年",
+        "buyNum": 12,
+        "date": "2016-8-3",
+        "amount": "7890元"
+      }
+    ]
+  }
+}
